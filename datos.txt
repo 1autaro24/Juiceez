@@ -1,0 +1,6 @@
+Alumno: Ponce Lautaro
+Profesor: Toyos Omar
+Carrera: Diseño multimedial
+Instancia: 1er año, 2do cuatrimestre
+Comisión: DMM2A
+Turno: Mañana

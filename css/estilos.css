@@ -1,0 +1,152 @@
+body{
+    font-family:Comic Neue, cursive;
+    font-size: 1.1em;
+} 
+ul{
+    list-style: none;
+}
+
+nav{
+    text-align: center;
+    margin: 0;
+}
+ul{
+    text-align: center;
+}
+nav ul li a{
+   
+  text-decoration: none;
+color: green;
+}
+#bebidas h2{
+    margin: 1em 1em 0 1em;
+}
+#quien{
+    padding: 0.2em;
+}
+h1{
+    text-align: center;
+    margin: 1em auto;
+    text-indent: -100000px;
+    overflow: hidden;
+    text-align: center;
+    background: url(../Imagenes/naranja_logo_2.png) no-repeat;
+    width: 100vw;
+    max-width: 169px;
+    height: calc(100vw * 1);
+    max-height:157px;
+}
+
+.sabores{
+    margin: 5px;
+}
+#historia{
+    background-color:lightcyan
+}
+#tres{
+    color: deeppink;
+}
+#bebidas{
+    text-align: center;
+}
+span{
+    font-size: 1.25em;
+    
+}
+
+iframe{
+    border: 0;
+}
+
+#contenedorgaleria{
+    margin: 1em;
+}
+#right li{
+   display: inline-block;
+   vertical-align: middle;
+   list-style: none;
+   width: 48px;
+    height: 48px;
+    margin: 2em;
+}
+#right  li a{
+    
+    text-align: center;
+    display: block;
+     width: 48px;
+    height: 48px;
+    text-indent: -500px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#facebook {
+    
+    background: url("../imagenes/fb.jpg") center center no-repeat;
+}
+
+#twitter {
+    
+    background: url("../imagenes/tw.jpg") center center no-repeat;
+}
+#instagram {
+    background: url("../imagenes/instagram.jpg") center center no-repeat;
+}
+footer {
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 1em;
+}
+
+#dudas{
+    margin-top: 30px;
+}
+#arreglo{
+    margin: 0 1em 1em 1em;
+    padding-top: 25px;
+   
+    color: aliceblue;
+}
+
+label{
+    color: aliceblue
+}
+input, textarea{
+    border-radius: 5%;
+}
+#enviado {
+            
+            width: 50vw;
+            height: 50vw;
+            font-size: 1.5em;
+            
+              position: fixed;
+            
+                left: calc(50% - 25vw);
+                top:  calc(50% - 25vw);
+          
+        }
+        
+#arreglo-historia{
+        margin-top: 15px;
+        margin-left: 10px;
+        padding-top: 5px;
+    }
+
+@media screen and (min-width: 768px){
+    footer{
+        text-align: left;
+    }
+    
+  
+}
+@media screen and (min-width: 1200px){
+    
+    nav ul{
+        margin: 6em 0 1em 0;
+    }
+}
+@media screen and (max-width: 1199px) {
+    h1 {
+        background-position: center; 
+    }
+}
